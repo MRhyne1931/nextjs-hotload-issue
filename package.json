@@ -1,0 +1,11 @@
+{
+  "name": "nextjs-hotload-issue",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
